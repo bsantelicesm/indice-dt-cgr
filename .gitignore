@@ -1,0 +1,4 @@
+# Ignore environment files
+.env
+*.zip
+# Other common Python ignores can be added here
