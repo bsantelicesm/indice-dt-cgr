@@ -4,7 +4,7 @@
 
 Esta es una herramienta para hacer búsquedas sobre el dataset completo de documentación proveída por la Dirección del Trabajo y la Contraloría General de la República, ambos de Chile. Es posible cargar todos los dictámenes y ordinarios en tablas MySQL para búsqueda de jurisprudencia, análisis de texto, entre otros. Para cada institución se genera una tabla completa en formato .sql o .xlsx con todos los resultados de búsqueda en cada caso.
 
-En los [Releases]([Releases](https://github.com/bsantelicesm/indice-dt-cgr/releases)) se realiza un índice completo mensual, obtenido el primer día del mes. Puedes usar el código fuente para generar tus propias descargas o incorporar la estructura en tus propios proyectos. Por el tamaño del dataset, se recomienda utilizar la versión .sql en un motor de base de datos como MySQL, PostgreSQL, o SQLite para mejor performance, mientras que el .xlsx es recomendado para búsquedas simples de texto.
+En los [Releases](https://github.com/bsantelicesm/indice-dt-cgr/releases) se realiza un índice completo mensual, obtenido el primer día del mes. Puedes usar el código fuente para generar tus propias descargas o incorporar la estructura en tus propios proyectos. Por el tamaño del dataset, se recomienda utilizar la versión .sql en un motor de base de datos como MySQL, PostgreSQL, o SQLite para mejor performance, mientras que el .xlsx es recomendado para búsquedas simples de texto.
 
 ## Contenidos de la tabla
 **dt - Dirección del Trabajo**
